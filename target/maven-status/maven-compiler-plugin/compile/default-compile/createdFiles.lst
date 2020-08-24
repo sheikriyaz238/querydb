@@ -1,0 +1,4 @@
+com\hotelagency\querydb\Tariff.class
+com\hotelagency\querydb\MainController.class
+com\hotelagency\querydb\TariffRepository.class
+com\hotelagency\querydb\QuerydbApplication.class
