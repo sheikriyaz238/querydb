@@ -29,7 +29,7 @@ public class MainController {
     return "Saved";
   }
 
-  @GetMapping(path="/all")
+  @GetMapping(path="/alldata")
   public @ResponseBody Iterable<Tariff> getAllTariffs() {
     // This returns a JSON or XML with the user information
     return userRepository.findAll();
